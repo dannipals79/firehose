@@ -24,7 +24,7 @@ const Hello = () => (
         <HelloStack.Screen 
             name="HelloScreen2"
             component={HelloScreen2}
-            options={ {title: 'Hello screen2!!'} } 
+            options={ {title: 'Hello screen2!!!'} } 
         />
 
     </HelloStack.Navigator>
